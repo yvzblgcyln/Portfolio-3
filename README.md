@@ -1,1 +1,1 @@
-demo: secreet-bedroom.surge.sh 
+demo: http://secreet-bedroom.surge.sh/
